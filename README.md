@@ -1,2 +1,2 @@
-# virtual-sex
+# virtual-m
 Just yet another virtual machine
