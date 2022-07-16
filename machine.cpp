@@ -22,7 +22,7 @@ enum
     R_R5,
     R_R6,
     R_R7,
-    R_PC, /* program counter */
+    R_PC, // program counter
     R_COND,
     R_COUNT
 };
